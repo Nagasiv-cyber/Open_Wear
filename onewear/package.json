@@ -1,0 +1,19 @@
+{
+  "name": "onewear",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Occasion-first, hyperlocal outfit sharing for Chennai. HACKXPRESS 1.0 - Problem Statement 4.",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.117.2",
+    "next": "16.3.7",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  }
+}
